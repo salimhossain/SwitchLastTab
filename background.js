@@ -1,4 +1,4 @@
-// background.js
+// Switch Last Tab
 let lastTabId = null;
 let currentTabId = null;
 
