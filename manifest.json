@@ -3,7 +3,7 @@
   "name": "Switch Last Tab",
   "version": "1.0",
   "description": "A Chrome extension to switch to the last used tab with a keyboard shortcut.",
-  "permissions": ["tabs"],
+  "permissions": ["background", "tabs"],
   "background": {
     "service_worker": "background.js"
   },
